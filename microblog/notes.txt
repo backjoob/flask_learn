@@ -1,0 +1,12 @@
+To get virtual environemnt:
+source venv/bin/activate
+
+To start:
+flask run
+
+(venv) $ export FLASK_APP=microblog.py
+
+Debug mode:
+
+
+Q: how to save virtual environment?
